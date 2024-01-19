@@ -1,0 +1,376 @@
+Janet’s ducks lay 15 eggs per day. She eats five for breakfast every morning and bakes muffins for her friends every day with five. She sells the remainder at the farmers' market daily for $5 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+----------
+Janet sells 15 - 5 - 5 = 5 duck eggs a day.
+She makes 5 * 5 = $25 every day at the farmer’s market.
+The answer is 25.
+--------------------
+A robe takes 5 bolts of blue fiber and a fifth that much white fiber.  How many bolts in total does it take?
+----------
+It takes 5/5=1 bolt of white fiber
+So the total amount of fabric is 5+1=6 bolts of fabric
+The answer is 6.
+--------------------
+Josh decides to try flipping a house.  He buys a house for $150 and then puts in $150 in repairs.  This increased the value of the house by 150%.  How much profit did he make?
+----------
+The cost of the house and repairs came out to 150+150=$300
+He increased the value of the house by 150*1.5=225
+So the new value of the house is 150+225=$375
+So he made a profit of 375-300=$75
+The answer is 75.
+--------------------
+James decides to run 3 sprints 3 times a week.  He runs 3 meters each sprint.  How many total meters does he run a week?
+----------
+He sprints 3*3=9 times
+So he runs 9*3=27 meters
+The answer is 27.
+--------------------
+Every day, Wendi feeds each of her chickens three cups of mixed chicken feed, containing seeds, mealworms and vegetables to help keep them healthy.  She gives the chickens their feed in three separate meals. In the morning, she gives her flock of chickens 3 cups of feed.  In the afternoon, she gives her chickens another 3 cups of feed.  How many cups of feed does she need to give her chickens in the final meal of the day if the size of Wendi's flock is 3 chickens?
+----------
+If each chicken eats 3 cups of feed per day, then for 3 chickens they would need 3*3=9 cups of feed per day.
+If she feeds the flock 3 cups of feed in the morning, and 3 cups in the afternoon, then the final meal would require 9-3-3=3 cups of chicken feed.
+The answer is 3.
+--------------------
+Kylar went to the store to buy glasses for his new apartment. One glass costs $30, but every second glass costs only 30% of the price. Kylar wants to buy 30 glasses. How much does he need to pay for them?
+----------
+The discount price of one glass is 30/100 * 30 = $9.
+If every second glass is cheaper, that means Kylar is going to buy 30 / 2 = 15 cheaper glasses.
+So for the cheaper glasses, Kylar is going to pay 15 * 9 = $135.
+And for the regular-priced glasses, Kylar will pay 15 * 30 = $450.
+So in total Kylar needs to pay 135 + 450 = $585 for the glasses he wants to buy.
+The answer is 585.
+--------------------
+Toulouse has twice as many sheep as Charleston. Charleston has 2 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 2 sheep?
+----------
+If Seattle has 2 sheep, Charleston has 2 * 2 sheep = 4 sheep
+Toulouse has twice as many sheep as Charleston, which is 2 * 4 sheep = 8 sheep
+Together, the three has 2 sheep + 4 sheep + 8 sheep = 14 sheep
+The answer is 14.
+--------------------
+Carla is downloading a 200 GB file. Normally she can download 20 GB/minute, but 20% of the way through the download, Windows forces a restart to install updates, which takes 20 minutes. Then Carla has to restart the download from the beginning. How load does it take to download the file?
+----------
+First find how many gigabytes are in 20% of the file: 200 GB * 20% = 40 GB
+Then divide that number by the download rate to find the time until Windows restarts: 40 GB / 20 GB/minute = 2 minutes
+Then find the time to download the whole file after the restart: 200 GB / 20 GB/minute = 10 minutes
+Then add the time to download 20% of the file, to download the whole file, and to wait for Windows to update: 2 minutes + 10 minutes + 20 minutes = 32 minutes
+The answer is 32.
+--------------------
+John drives for 4 hours at a speed of 30 mph and then turns around because he realizes he forgot something very important at home.  He tries to get home in 4 hours but spends the first 2 hours in standstill traffic.  He spends the next half-hour driving at a speed of 4 mph, before being able to drive the remaining time of the 4 hours going at 30 mph.  How far is he from home at the end of those 4 hours?
+----------
+When he turned around he was 4*30=120 miles from home
+He was only able to drive 4-2=2 hours in the first four hours
+In half an hour he goes 4*.5=2 miles
+He then drives another 2-.5=1.5 hours
+In that time he goes 30*1.5=45 miles
+So he drove 2+45=47 miles
+So he is 120-47=73 miles away from home
+The answer is 73.
+--------------------
+Eliza's rate per hour for the first 10 hours she works each week is $10. She also receives an overtime pay of 1.20 times her regular hourly rate. If Eliza worked for 20 hours this week, how much are her earnings for this week?
+----------
+Eliza is entitled to 20 -10 = 10 hours overtime pay.
+Her hourly rate for the overtime pay is $10 x 1.20 = $12.
+So, Eliza will receive $12 x 10 =$120 for overtime pay.
+Her regular weekly earning is $10 x 10 = $100.
+Thus, Eliza will receive a total of $12 + $120 = $132 for this week's work.
+The answer is 132.
+--------------------
+A new program had 10 downloads in the first month. The number of downloads in the second month was ten times as many as the downloads in the first month, but then reduced by 10% in the third month. How many downloads did the program have total over the three months?
+----------
+The number of downloads of the program in the second month increased to 10*10 = 100
+In the first two months, the total number of downloads of the program was 10+100 = 110
+In the third month, the number of downloads of the program reduced by 10/100*100 = 10
+There were 100-10 = 90 downloads in the third month.
+In the three months, the total number of downloads of the program was 110+90 = 200
+The answer is 200.
+--------------------
+Toula went to the bakery and bought various types of pastries. She bought 3 dozen donuts which cost $3 per dozen, 3 dozen mini cupcakes which cost $3 per dozen, and 3 dozen mini cheesecakes for $3 per dozen. How much was the total cost?
+----------
+The total charge for the doughnuts was 3 x $3 = $9.
+The total charge for the mini cupcakes was 3 x $3 = $9.
+The total charge for the mini cheesecakes was 3 x $3 = $9.
+Therefore the total amount Toula paid for the pastries was $9 + $9 + $9 = $27.
+The answer is 27.
+--------------------
+Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 3 lemons, which he can sell for $3 each. It costs $3 a year to water and feed the tree. How many years will it take before he starts earning money on the lemon tree?
+----------
+He makes $9 selling lemons each year because 3 x 3 = 9
+He earns $6 each year from the lemon tree because 9 - 3 = 6
+It will take 15 years to earn enough to pay off the tree because 90 / 6 = 15
+He will make money in year 16 because 15 + 1 = 16
+The answer is 16.
+--------------------
+Melanie is a door-to-door saleswoman. She sold a half of her vacuum cleaners at the green house, 2 more to the red house, and a half of what was left at the orange house. If Melanie has 2 vacuum cleaners left, how many did she start with?
+----------
+First multiply the two remaining vacuum cleaners by 2 to find out how many Melanie had before she visited the orange house: 2 * 2 = 4
+Then add 2 to figure out how many vacuum cleaners she had before visiting the red house: 4 + 2 = 6
+Now we know that 1/2 * x = 6, where x is the number of vacuum cleaners Melanie started with. We can find x by dividing each side of the equation by 1/2, which produces x = 12
+The answer is 12.
+--------------------
+In a dance class of 100 students, 20% enrolled in contemporary dance, 20% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+----------
+There are 100 x 20/100 = 20 students who enrolled in contemporary dance.
+So, 100 - 20 = 80 students are enrolled in either jazz or hip-hop dance.
+There are 80 x 20/100 = 16 students who enrolled in jazz dance.
+Hence, 80 - 16 = 64 students enrolled in hip-hop dance.
+This is 64/100 x 100% = 64% of the entire students.
+The answer is 64.
+--------------------
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $2,000 or electronic gadgets worth $200. His financial advisor speculates that the jewelry market will go up 2% while the electronic gadgets market will rise 2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+----------
+If he purchases jewelry, he will make a profit of 2% which is $2000*(2/100) = $40
+If he purchases electronic gadgets, he will make a profit of 2% which is $200*(2/100) = $4
+If he wants to maximize profit, since $40 > $4, he will choose to purchase jewelry, thereby making a profit of $40
+The answer is 40.
+--------------------
+Two trains leave San Rafael at the same time. They begin traveling westward, both traveling for 2 miles. The next day, they travel northwards, covering 2 miles. What's the distance covered by each train in the two days?
+----------
+On the first day, the trains covered 2 trains * 2 miles/train = 4 miles together.
+They also covered 2 miles/train * 2 trains = 4 miles together on the second day.
+The combined distance the two trains covered in the two days is 4 miles + 4 miles = 8 miles
+The average distance for the two days is 8 miles / 2 trains = 4 miles/train
+The answer is 4.
+--------------------
+Jill gets paid $20 per hour to teach and $20 to be a cheerleading coach. If she works 20 weeks a year, 20 hours a week as a teacher and 20 hours a week as a coach, what's her annual salary?
+----------
+First find the total amount Jill makes per week teaching: $20/hour * 20 hours/week = $400/week
+Then find the total amount Jill makes per week coaching: $20/hour * 20 hours/week = $400/week
+Then add those two amounts to find the total amount Jill makes per week: $400/week + $400/week = $800/week
+Then multiply that number by the number of weeks Jill works in a year to find her annual salary: $800/week * 20 weeks/year = $16,000
+The answer is 16000.
+--------------------
+Claire makes a 12 egg omelet every morning for breakfast.  How many dozens of eggs will she eat in 12 weeks?
+----------
+She eats 12 eggs every day and there are 7 days in a week so she eats 12*7 = 84 eggs a week
+After 12 weeks she will have eaten 12*84 = 1008 eggs
+There are 12 eggs in 1 dozen and she'll eat 1008 eggs so that's 1008/12 = 84 dozen eggs
+The answer is 84.
+--------------------
+Marissa is hiking a 12-mile trail. She took 4 hour to walk the first 4 miles, then another 4 hours to walk the next four miles. If she wants her average speed to be 1 miles per hour, what speed (in miles per hour) does she need to walk the remaining distance?
+----------
+First figure out how many hours it takes to hike a 12-mile trail at 1 mph by dividing the distance by the speed: 12 miles / 1 mph = 12 hours
+Next subtract the time Marissa already spent walking to find out how much time she has left: 12 hours - 4 hours - 4 hours = 4 hours
+Now figure out how much distance she has left by subtracting the distance she already traveled from the total distance: 12 miles - 4 miles - 4 miles = 4 miles
+Now divide the remaining distance by the remaining time to find out how fast in miles per hour Marissa has to travel: 4 miles / 4 hours = 1 mph
+The answer is 1.
+--------------------
+I have 10 liters of orange drink that is one-half water and I wish to add it to 10 liters of pineapple drink that is one-half water. But as I pour it, I spill two liters of the orange drink. How much water is in the remaining 18 liters?
+----------
+There are 10 x 1/2 = 5 liters of water from the 10 liters pineapple drink.
+After 2 liters of orange drink was spilled, there were 10 - 2 = 8 liters of orange drink left.
+Out of the 8 liters, 8 x 1/2 = 4 liters are water.
+Thus, there are a total of 5 + 4 = 9 liters of water out of the 18 liters.
+The answer is 9.
+--------------------
+Raymond and Samantha are cousins. Raymond was born 20 years before Samantha. Raymond had a son at the age of 20. If Samantha is now 20, how many years ago was Raymond's son born?
+----------
+When Raymond's son was born Samantha was 20 - 20 = 0 years old.
+Thus it has been 20 - 0 = 20 years since Raymond's son was born.
+The answer is 20.
+--------------------
+Billy sells DVDs. He has 9 customers on Tuesday. His first 3 customers buy three DVDs each.  His next 3 customers buy 3 DVDs each.  His last 3 customers don't buy any DVDs. How many DVDs did Billy sell on Tuesday?
+----------
+His first 3 customers buy 3 * 3 = 9 DVDs.
+His next 3 buy 3 * 3 = 9 DVDs.
+He sells a total of 9 + 9 + 0 = 18 DVDs.
+The answer is 18.
+--------------------
+A candle melts by 4 centimeters every hour that it burns. How many centimeters shorter will a candle be after burning from 4:00 PM to 8:00 PM?
+----------
+The candle burns for 8 - 4 = 4 hours.
+Thus, the candle will be 4 * 4 = 16 centimeters shorter.
+The answer is 16.
+--------------------
+Kyle bought last year's best-selling book for $50. This is with a 50% discount from the original price. What was the original price of the book?
+----------
+Let X be the original price of the book. The discounted price is X - X*50% = $50.
+Combining like terms, we get .5X = $50
+Dividing both sides by .5, we get X = $100.
+The answer is 50.
+--------------------
+Marie ordered one chicken meal that costs $5, 5 packs of milk that costs $5 each, 5 apples that cost $5 each, and some boxes of pizza. Marie paid a total of $100. How many boxes of pizza did Marie order if each box costs $5?
+----------
+Five packs of milk cost $5 x 5 = $25.
+Five apples cost $5 x 5 = $25.
+The total cost of the chicken meal, milk, and apples is $5 + $25 + $25 = $55.
+Thus, the boxes of pizza cost $100 - $55 = $45.
+Therefore, Marie ordered $45/$5 = 9 boxes of pizza.
+The answer is 9.
+--------------------
+Mishka bought 3 pairs of shorts, 3 pairs of pants, and 3 pairs of shoes. One pair of shorts costs $3. One pair of pants costs $3 and one pair of shoes costs $3. How many dollars did Mishka spend on all the clothing items?
+----------
+3 * (3 + 3 + 3) = $27
+Mishka spent $27 on clothing.
+The answer is 27.
+--------------------
+Cynthia eats one serving of ice cream every night.  She buys cartons of ice cream with 5 servings of ice cream per carton at a cost of $5 per carton.  After 5 days, how much will she spend on ice cream?
+----------
+Each container of ice cream has 5 servings and she eats 1 serving a night so after 5 days she will need 5/5 = 1 containers of ice cream
+If each carton costs $5.00 and she needs 1 container then it will cost her 5*1 = $5
+The answer is 5.
+--------------------
+Henry made two stops during his 60-mile bike trip. He first stopped after 20 miles. His second stop was 20 miles before the end of the trip. How many miles did he travel between his first and second stops?
+----------
+He traveled 20 miles + 20 miles = 40 miles not counting the distance between stops.
+Henry traveled 60 miles - 40 miles = 20 miles between his first and second stop.
+The answer is 20.
+--------------------
+Gloria is shoe shopping when she comes across a pair of boots that fit her shoe budget. However, she has to choose between the boots and two pairs of high heels that together cost two dollars less than the boots. If one pair of heels costs $2 and the other costs twice as much, how many dollars are the boots?
+----------
+The second pair of heels costs 2 * 2 = $4.
+The heels together cost 2 + 4 = $6.
+The boots cost $2 more than both pairs of heels together, so the boots cost 6 + 2 = $8.
+The answer is 8.
+--------------------
+Darrell and Allen's ages are in the ratio of 10:10. If their total age now is 10, calculate Allen's age 10 years from now.
+----------
+The total ratio representing their ages is 10+10= 20
+Since the fraction of the ratio that represents Allen's age is 10/20, Allen's current age is 10/20*10 = 5
+If Allen is currently 5 years old, in 10 years he will be 5+10 = 15 years old
+The answer is 15.
+--------------------
+Gunter is trying to count the jelly beans in a jar. He asks his friends how many they think are in the jar. One says 20. Another says 20 more than half the first one. A third says 20% more than the first one. What is their average guess?
+----------
+The second person guessed 30 because 20 + (20/2)= 30
+The second guessed 20 because 20 x 1.25 = 25
+The total amount guessed is 75 because 20 + 30 + 25 = 75
+The average amount guessed is 25 because 75 / 3 = 25
+The answer is 25.
+--------------------
+John takes care of 10 dogs.  Each dog takes .10 hours a day to walk and take care of their business.  How many hours a week does he spend taking care of dogs?
+----------
+He spends 10*.10=1 hours per day
+That means he spends 1*7=7 hours per week
+The answer is 7.
+--------------------
+Gretchen has 110 coins. There are 30 more gold coins than silver coins. How many gold coins does Gretchen have?
+----------
+Let x be the number of silver coins Gretchen has
+Gretchen has x+30 gold coins.
+x+x+30=110
+2*x=80
+x=40
+Gretchen has 40+30=70 gold coins
+The answer is 70.
+--------------------
+Siobhan has 2 fewer jewels than Aaron. Aaron has 2 more jewels than half of Raymond's jewels. If Raymond has 2 jewels, how many jewels does Siobhan have?
+----------
+Half of Raymond's jewels is 2/2 = 1
+Since Aaron has 2 more jewels than half of Raymond's jewels, he has 2+1 = 3 jewels.
+If Siobhan has 2 fewer jewels than Aaron, he has 3-2 = 1 jewel.
+The answer is 1.
+--------------------
+Mike plays ping pong for 40 minutes.  In the first 20 minutes, he scores 20 points.  In the second 20 minutes, he scores 20% more points.  How many total points did he score?
+----------
+He scored 20*.2=4 points more in the second 20 minutes
+So he scored 20+4=24 points in the second 20 minutes
+So in total, he scored 20+24=44 points in the 40 minutes
+The answer is 44.
+--------------------
+Terry eats 2 yogurts a day.  They are currently on sale at 2 yogurts for $2.  How much does he spend on yogurt over 2 days?
+----------
+He eats 2 yogurts a day so over 2 days he will need 2*2 = 4 yogurts
+The yogurt is sold as 2 units for $2 and he needs 4 yogurts so that’s 4/2 = 2 2-packs
+Each 2-pack is $2 and he needs 2 2-packs so he will spend $2*2 = $4 on yogurt
+The answer is 4.
+--------------------
+John plans to sell all his toys and use the money to buy video games. He has 22 lego sets and he sells them for $10 each. He ends up buying 10 video games for $10 each and has $10 left. How many lego sets does he still have?
+----------
+He spent $100 on video games because 10 x 10 = 100
+He earned $110 from his sale because 10 + 100 = 110
+He sold 11 lego sets because 11 x 10 = 110
+He has 11 sets left because 22 - 11 = 11
+The answer is 11.
+--------------------
+John runs 10 miles a week. He runs 3 days a week.  He runs 3 hours the first day and a third as much the other two days he runs.  How fast does he run?
+----------
+He has 7-1=6 possible running days.
+He runs half of those so he runs 6/2=3 days.
+So for two days, he runs 3/3=1 hours.
+So in total, he runs 3+1+1=5 hours.
+So he runs 10/5=2 mph.
+The answer is 2.
+--------------------
+Dana can run at a rate of speed two times faster than she can walk, but she can skip at a rate of speed that is half as fast as she can run. If she can skip at 2 miles per hour, how many miles can she travel in two hours if she spends one-half of the time running and two-half of the time walking?
+----------
+If Dana can skip at half the speed she can run, then she can run at 2*2=4 miles per hour.
+And since she can run at a speed that is 2 times faster than she can walk, this means she can walk at 4/2=2 miles per hour.
+If one-half of the time is spent walking, then she walks for 2*(1/2)=1 hour.
+If one-half of the time is spent running, then she runs for 2-1=1 hour.
+Thus, she runs for 1 hour at 4 miles per hour, or 1*4=4 miles.
+She walks for 1 hour at 2 miles per hour, or 2*1=2 miles.
+Thus, altogether, she travels 4+2=6 miles.
+The answer is 6.
+--------------------
+Brandon's iPhone is four times as old as Ben's iPhone. Ben's iPhone is four times older than Suzy's iPhone. If Suzy’s iPhone is 4 years old, how old is Brandon’s iPhone?
+----------
+Ben’s iPhone is 4*4 = 16 years old.
+Brandon’s iPhone is 4*16 = 64 years old.
+The answer is 64.
+--------------------
+The great dragon, Perg, sat high atop mount Farbo, breathing fire upon anything within a distance of 1000 feet.  Polly could throw the gold javelin, the only known weapon that could sleigh the dragon, for a distance of 400 feet, well within the reach of the dragon's flames.  But when Polly held the sapphire gemstone, she could throw the javelin three times farther than when not holding the gemstone. If holding the gemstone, how far outside of the reach of the dragon's flames could Polly stand and still hit the dragon with the gold javelin?
+----------
+With the gemstone, Polly could throw the javelin 3 times farther than 400 feet, for a distance of 3*400=1200 feet.
+1200 feet is beyond the 1000-foot reach of the dragon's flames by a distance of 1200-1000=200 feet.
+The answer is 200.
+--------------------
+Grandma Jones baked 5 apple pies for the fireman's luncheon.  She cut each pie into 5 pieces and set the five pies out on the buffet table for the guests to serve themselves.  At the end of the evening, after the guests had taken and eaten their pieces of pie, there were 5 pieces of pie remaining.  How many pieces were taken by the guests?
+----------
+To start the evening, there were 5 pies, each with 5 pieces, which is 5*5=25 pieces of pie.
+If only 5 remained, then 25-5=20 pieces of pie had been taken by guests.
+The answer is 20.
+--------------------
+According to its nutritional info, a bag of chips has 200 calories per serving. If a 200g bag has 2 servings, how many grams can you eat if your daily calorie target is 2000 and you have already consumed 1800 calories?
+----------
+If the total calorie target is 2000 and I have consumed 1800 calories then I have 2000-1800 = 200 calories left to eat
+If each serving of chips has 200 calories and I only have 200 calories left to eat, then I can only eat 200/200 of a serving = 1 serving
+We also know that a 200g bag of chips has 2 servings, hence each serving has 200g/2 = 100 grams
+If I can only eat 1 serving, then I can eat only 100g * 1 = 100 grams
+The answer is 100.
+--------------------
+Charlie wants to sell beeswax candles.  For every pound of beeswax, he can make 10 tapered candles.  One pound of beeswax and the wicks cost $10.00 in supplies.   If he sells each candle for $10.00 each, what is his net profit if he makes and sells 10 candles?
+----------
+1 pound of beeswax and the wick make 10 candles and he wants to make 10 candles so he needs 10/10 = 1 pound of beeswax
+1 pound of beeswax costs $10.00 and he needs 1 pound so his supplies will cost 10*1 = $10.00
+He wants to sell each candle for $10.00 each and he's selling 10 candles so that's 10*10 = $100.00
+If he makes $100.00 selling candles and his supplies cost $10.00 then his net profit is 100-10 = $90.00
+The answer is 90.
+--------------------
+Meredith is a freelance blogger who writes about health topics and submits to clients each day as her permanent job. A blog article takes an average of 2 hours to research and write about. Last week, she wrote 2 articles on Monday and  1/2 times more articles on Tuesday than on Monday. On Wednesday, she wrote twice the number of articles she wrote on Tuesday. Calculate the total number of hours she spent writing articles in the three days.
+----------
+If she wrote two articles on Monday, then on Tuesday she wrote 1/2* 2 = 1 more article.
+The total number of articles she wrote on Tuesday is 2+1 = 3
+On Wednesday, the number of articles was twice the number she wrote on Tuesday, so it was 2*3 = 6 articles.
+Over the three days, she wrote 2+3 +6 = 11 articles.
+If each article takes her 2 hours to research and write about, she spent 2*11 = 22 hours on all the articles.
+The answer is 22.
+--------------------
+Candice put 80 post-it notes in her purse before she headed out to her job at the coffee shop.  On her way, she stopped off at the store and purchased a package of Post-it notes;  At work, she placed a single Post-it note on each of 80 different cups of coffee.  If she had 80 post-it notes remaining overall, how many Post-it notes were in the package that she purchased?
+----------
+Let's let x be the number of post-it notes in the package that Candice purchased.
+Then, the total number of post-it notes she had when she left the store was 80+x.
+And if she used 80 Post-it notes at work and had 80 left, then 80+x=80+80
+Subtracting 80 from each side of the equation, we see that x=80+80-80=80 Post-it notes.
+The answer is 80.
+--------------------
+John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $50 on blue ties that cost $50 each. How much did he spend on ties?
+----------
+He bought 50 / 50 = 1 blue tie
+So he bought 1 * 2 = 2 red ties
+Each red tie cost $50 * .5 = $25 more than blue ties
+So they each cost $50 + $25 = $75
+So he spent $75 * 1 = $75 on red ties
+So he spent $50 + $75 = $125 on ties
+The answer is 125.
+--------------------
+Tracy used a piece of wire 4 feet long to support tomato plants in the garden. The wire was cut into pieces 4 inches long. How many pieces did she obtain?
+----------
+If Tracy used a piece of wire 4 feet long, since 1 foot is equal to 12 inches, the total length of the wire in inches was 12*4=48 inches.
+Since the wire was cut into pieces 4 inches long, Tracy obtained 48/4=12 pieces
+The answer is 12.
+--------------------
+Richard lives in an apartment building with 4 floors. Each floor contains 4 units, and 3/4 of the building is occupied. What's the total number of unoccupied units In the building?
+----------
+The total number of units in the building will be 4 units/floor * 4 floors = 16 units.
+If 3/4 of the building is occupied, then the total number of occupied units is 3/4 * 16 units = 12 units.
+The total number of unoccupied units is 12 units - 12 units = 4 units.
+The answer is 4.
